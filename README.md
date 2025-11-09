@@ -90,7 +90,6 @@ It combines AI, computer vision, and database management to enhance security and
 👩‍💻 Developed By
 
 AI Developer Team – Chennai Metro Rail Limited
-Project Contributors: [Add your name or team members here]
 
 📜 License
 
