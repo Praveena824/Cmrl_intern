@@ -1,6 +1,6 @@
 # Cmrl_intern
 **Face Recognition System for Automated Employee Gate Access**
-A deep learning-based Face Recognition System developed for verifying staff . This system ensures secure and real-time face verification using webcam input and includes features like liveness detection, SQLite-based data management, and a PyQt5-based user interface.
+//A deep learning-based Face Recognition System developed for verifying staff . This system ensures secure and real-time face verification using webcam input and includes features like liveness detection, SQLite-based data management, and a PyQt5-based user interface.
 
 **Features**
 Capture 20 images per user with augmentation and preprocessing
